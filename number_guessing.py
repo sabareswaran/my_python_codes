@@ -1,6 +1,6 @@
+#a simple python program,computer choose a number between 1 to 10, and give users hint to guess the number
 import random
 import math
-
 
 #generating random nummber
 num =int (random.randint(1,10))
